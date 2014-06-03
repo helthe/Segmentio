@@ -63,9 +63,6 @@ class Queue
             return array_shift($this->queue);
         }
 
-        $index = null;
-        $method = null;
-
         // The array pointer does not reset between method calls. So we need to reset it manually.
         reset($this->queue);
 
