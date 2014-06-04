@@ -1,4 +1,4 @@
-# Helthe Segment.io [![Build Status](https://travis-ci.org/helthe/Segmentio.png?branch=master)](https://travis-ci.org/helthe/Segment.io) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/helthe/Segmentio/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/helthe/Segmentio/?branch=master)
+# Helthe Segment.io [![Build Status](https://travis-ci.org/helthe/Segmentio.png?branch=master)](https://travis-ci.org/helthe/Segmentio) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/helthe/Segmentio/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/helthe/Segmentio/?branch=master)
 
 Helthe Segment.io is a client library for interacting with the [Segment.io](http://www.segment.io) API.
 It is meant as an all-in-one solution for interacting with both the browser platform and the server platform.
